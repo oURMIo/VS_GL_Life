@@ -1,0 +1,4 @@
+﻿  Исходный код.cpp
+E:\Progremir_2017-1018_C++\glut_life\Исходный код.cpp(144,9): warning C4101: j: неиспользованная локальная переменная
+E:\Progremir_2017-1018_C++\glut_life\Исходный код.cpp(144,6): warning C4101: i: неиспользованная локальная переменная
+  glut_life.vcxproj -> E:\Progremir_2017-1018_C++\glut_life\Debug\glut_life.exe
